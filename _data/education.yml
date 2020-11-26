@@ -3,8 +3,11 @@
   name: Princeton University
   dates: 2016 - now
   qualification: Ph.D. in Civil and Environmental Engineering
-- layout: left
+- layout: top-middle
   name: Peking University
   dates: 2012 - 2016
   qualification: B.S. in Environmental Science
-  
+- layout: top-right
+  name: Peking University
+  dates: 2013 - 2016
+  qualification: B.S. in Mathematics and Applied Mathematics (double degree)
