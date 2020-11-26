@@ -4,16 +4,27 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Rui Wang
-title: Ph.D. Candidate in Civil and Environmental Engineering
-Princeton University
+title: Ph.D. Candidate
 email: ruiw@princeton.edu
-phone: 6099558833
+phone: +01-609-955-8833
 website: https://ruiwangpu.github.io/Rui_Wang/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
+twitter_username: jekyllrb
+github_username:  jekyll
+stackoverflow_username: "00000001"
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+xing_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+googleplus_username: +jekyll
 orcid_username: 0000-0003-0588-1524
 
 # Additional icon links
@@ -43,14 +54,14 @@ about_content: | # this will include new lines to allow paragraphs
     - <a href="google.com">Links</a>
     - Images
 
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
