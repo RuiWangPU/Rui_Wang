@@ -3,11 +3,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Rui Wang
+title: Ph.D. Candidate, Princeton University
+email: ruiw@princeton.edu
+phone: 6099558833
+website: https://ruiwangpu.github.io/Rui_Wang/
 
 # Dark Mode (true/false/never)
 darkmode: false
