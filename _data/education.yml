@@ -3,12 +3,18 @@
   name: Princeton University
   dates: 2016 - now
   qualification: Ph.D. in Civil and Environmental Engineering
-  quote: advisor: Mark Zondlo
+  quote: >
+    Advisor: Mark Zondlo
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
 - layout: left
   name: Peking University
   dates: 2012 - 2016
   qualification: B.S. in Environmental Science
-  quote: advisor: Mei Zheng
+  quote: >
+    Advisor: Mei Zheng
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
 - layout: left
   name: Peking University
   dates: 2013 - 2016
