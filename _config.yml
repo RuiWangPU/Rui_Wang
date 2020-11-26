@@ -4,7 +4,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Rui Wang
-title: Ph.D. Candidate, Princeton University
+title: Ph.D. Candidate in Civil and Environmental Engineering
+Princeton University
 email: ruiw@princeton.edu
 phone: 6099558833
 website: https://ruiwangpu.github.io/Rui_Wang/
@@ -13,19 +14,7 @@ website: https://ruiwangpu.github.io/Rui_Wang/
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0003-0588-1524
 
 # Additional icon links
 additional_links:
