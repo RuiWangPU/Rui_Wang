@@ -3,10 +3,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: Rui Wang
+title: Ph.D. Candidate in Civil and Environmental Engineering, Princeton University
+email: ruiw@princeton.edu
+phone: +(01) 609-955-8833
 website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
@@ -14,7 +14,7 @@ darkmode: false
 
 # Social links
 linkedin_username: jekyll
-orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0003-0588-1524
 
 # Additional icon links
 # - title: another link
