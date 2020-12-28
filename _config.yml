@@ -33,7 +33,7 @@ about_profile_image: \Users\ruiw\Documents\python\Rui_Wang\_sass\Rui Wang.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-<img src="https://drive.google.com/uc?export=view&id=1KbJ5-cJLn-9mNTkOCmYuUaP4NoDr9GnI">
+img src="/Rui_Wang/images/Rui Wang.jpg">
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - Lists
     - Tables
