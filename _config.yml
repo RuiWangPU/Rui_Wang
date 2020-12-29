@@ -29,15 +29,9 @@ orcid_username: 0000-0003-0588-1524
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/Rui Wang_.jpg
+about_profile_image: /images/Rui Wang.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+I am a Ph.D. student in <a href="http://zondlo.princeton.edu/index.html"> Prof. Mark Zondlo's group</a>. 
 
 # Projects Section
 projects_title: Publications #(Use this to override about projects section title)

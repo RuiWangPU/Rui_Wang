@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: Peer-Reviewed Publications
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+  <b>Wang, R.,</b>, Guo, X., Pan, D., Kelly, J.T, Bash, J.O., Sun, K., Paulot, F., Clarisse, L., Van Damme, M., Whitburn, S., Coheur, P.-F., Clerbaux, C. and Zondlo, M.A., 2020, 
+  <strong>Monthly patterns of ammonia over the contiguous United States at 2 km resolution</strong>, <em>Geophys. Res. Lett.</em>, doi:<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090579">10.1029/2020GL090579</a>.</p>
+
+  name: Conference Proceedings
+  description: | # this will include new lines to allow paragraphs
