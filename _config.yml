@@ -7,7 +7,7 @@ name: Rui Wang
 title: Ph.D. Candidate in Civil and Environmental Engineering, Princeton University
 email: ruiw@princeton.edu
 phone: +(01) 609-955-8833
-#website: Your website (eg. https://google.com)
+website: Your website (eg. https://google.com)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -43,7 +43,7 @@ experience_title: <strong>Research Experience</strong> #(Use this to override ab
 education_title: <strong>Education</strong> #(Use this to override about education section title)
 
 # More Section
-more_title: <strong>A Little More About Me</strong> #(Use this to override about more section title)
+more_title: <strong>Significant Presentations</strong> #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
