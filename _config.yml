@@ -28,7 +28,7 @@ orcid_username: 0000-0003-0588-1524
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: <strong>About Me</strong> (Use this to override about section title)
+about_title: <strong>About Me</strong>
 about_profile_image: /images/Rui Wang.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Ph.D. Candidate in the CEE department in Princeton University, working with <a href="http://zondlo.princeton.edu/index.html">Prof. Mark Zondlo</a>.
