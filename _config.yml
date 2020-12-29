@@ -31,7 +31,7 @@ orcid_username: 0000-0003-0588-1524
 about_title: <strong>About Me</strong>
 about_profile_image: /images/Rui Wang.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. Candidate in the CEE department in Princeton University, working with <a href="http://zondlo.princeton.edu/index.html">Prof. Mark Zondlo</a>.
+  I am currently a Ph.D. Candidate in CEE department at Princeton University, working with <a href="https://www.google.com/url?q=http%3A%2F%2Fzondlo.princeton.edu%2Findex.html&sa=D">Prof. Mark Zondlo</a>. I am interested in utilizing multiple atmospheric ammonia (NH<sub>3</sub>) datasets, including satellite observations, ground monitoring network, and in-situ measurements, to understand ammonia's impact on air pollution.
 
 # Projects Section
 projects_title: <strong>Publications</strong> #(Use this to override about projects section title)
