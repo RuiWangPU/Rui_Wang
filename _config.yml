@@ -28,7 +28,7 @@ orcid_username: 0000-0003-0588-1524
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: <strong>About Me</strong> (Use this to override about section title)
+about_title: <strong>About Me</strong> (Use this to override about section title)
 about_profile_image: /images/Rui Wang.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Ph.D. Candidate in the CEE department in Princeton University, working with <a href="http://zondlo.princeton.edu/index.html">Prof. Mark Zondlo</a>.
@@ -37,13 +37,13 @@ about_content: | # this will include new lines to allow paragraphs
 projects_title: <strong>Publications</strong> #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: <strong>Experience</strong> #(Use this to override about experience section title)
+experience_title: <strong>Research Experience</strong> #(Use this to override about experience section title)
 
 # Education Section
-# education_title: <strong>Education</strong> #(Use this to override about education section title)
+education_title: <strong>Education</strong> #(Use this to override about education section title)
 
 # More Section
-# more_title: <strong>A Little More About Me</strong> #(Use this to override about more section title)
+more_title: <strong>A Little More About Me</strong> #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
