@@ -31,7 +31,7 @@ orcid_username: 0000-0003-0588-1524
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/Rui Wang.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. student in <a href="http://zondlo.princeton.edu/index.html">Prof. Mark Zondlo's group</a>.
+  I am a Ph.D. Candidate in the CEE department in Princeton University, working with <a href="http://zondlo.princeton.edu/index.html">Prof. Mark Zondlo </a>.
 
 # Projects Section
 projects_title: Publications #(Use this to override about projects section title)
