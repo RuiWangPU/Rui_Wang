@@ -1,22 +1,22 @@
 # Education Template
 - layout: left
   name: Princeton University
-  dates: Ph.D. Candidate in Civil and Environmental Engineering
-  qualification: 2016 - now
+  dates: 2016 - now
+  qualification: Ph.D. Candidate in Civil and Environmental Engineering
   quote: >
   
   description: I am a Ph.D. student working with Prof. Mark Zondlo. 
   
 - layout: left
   name: Peking University
-  dates: B.S. in Environmental Science
-  qualification: 2012 - 2016
+  dates: 2012 - 2016
+  qualification: B.S. in Environmental Science
   quote: >
   description: I started my undergraduate research in my sophomore year, working with <a href="http://scholar.pku.edu.cn/meizheng"> Prof. Mei Zheng's lab</a>. I mainly worked on high-time-resolution source apportionment of PM<sub>2.5</sub> in Beijing and the North China Plain (NCP) using positive matrix factorization model (PMF). 
                
 - layout: left
   name: Peking University
-  dates: B.S. in Mathematics and Applied Mathematics (double major)
-  qualification: 2013 - 2016
+  dates: 2013 - 2016
+  qualification: B.S. in Mathematics and Applied Mathematics (double major)
   quote: >
   description: I got a double Bachelor's degree in Mathematics and Applied Mathematics.
