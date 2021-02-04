@@ -17,9 +17,9 @@ linkedin_username: rui-wang-7233631a9
 orcid_username: 0000-0003-0588-1524
 
 # Additional icon links
-title: ResearchGate
-icon: /images/research_gate.png
-url: https://www.researchgate.net/profile/Rui_Wang349
+-title: ResearchGate
+ icon: /images/research_gate.png
+ url: https://www.researchgate.net/profile/Rui_Wang349
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
