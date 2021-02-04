@@ -22,6 +22,10 @@ additional_links:
    icon: fa-researchgate
    url: https://www.researchgate.net/profile/Rui_Wang349
 
+ - title: Google Site
+   icon: fa-google
+   url: https://sites.google.com/view/rui-wang/
+
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
