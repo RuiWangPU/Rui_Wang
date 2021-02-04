@@ -19,7 +19,7 @@ orcid_username: 0000-0003-0588-1524
 # Additional icon links
 additional_links:
  - title: ResearchGate
-   icon: /images/researchgate-brands.jpg
+   icon: researchgate
    url: https://www.researchgate.net/profile/Rui_Wang349
 
 # Google Analytics and Tag Manager
