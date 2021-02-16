@@ -41,9 +41,6 @@ about_content: | # this will include new lines to allow paragraphs
 # Projects Section
 projects_title: <strong>Publications</strong> #(Use this to override about projects section title)
 
-# Experience Section
-#experience_title: <strong>Research Experience</strong> #(Use this to override about experience section title)
-
 # Education Section
 education_title: <strong>Education</strong> #(Use this to override about education section title)
 
@@ -51,7 +48,8 @@ education_title: <strong>Education</strong> #(Use this to override about educati
 more_title: <strong>Media Reports</strong> #(Use this to override about more section title)
 more_content: NASA Earth Observatory Image of the Day, <strong><a href="https://earthobservatory.nasa.gov/images/144351/the-seasonal-rhythms-of-ammonia">The Seasonal Rhythms of Ammonia</a></strong>, December 10, 2018
 
-more_title: <strong>Significant Presentations</strong>
+# Experience Section
+experience_title: <strong>Significant Presentations</strong> #(Use this to override about experience section title)
 
 # Footer
 footer_show_references: true
