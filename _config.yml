@@ -48,7 +48,7 @@ experience_title: <strong>Media Reports</strong> #(Use this to override about ex
 projects_title: <strong>Publications</strong> #(Use this to override about projects section title)
 
 # More Section
-#more_title: <strong>Significant Presentations</strong> #(Use this to override about more section title)
+more_title: <strong>Significant Presentations</strong> #(Use this to override about more section title)
 #more_content: 
 
 # Footer
