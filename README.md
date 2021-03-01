@@ -1,2 +1,2 @@
-This website is based on modern-resume-theme credit to James Grant (https://github.com/sproogen/modern-resume-theme) 
+This website is based on modern-resume-theme designed by <a href="https://github.com/sproogen/modern-resume-theme">James Grant</a>
 # modern-resume-theme [![Gem Version](https://badge.fury.io/rb/modern-resume-theme.svg)](https://badge.fury.io/rb/modern-resume-theme) [![Build Status](https://travis-ci.com/sproogen/modern-resume-theme.svg?branch=master)](https://travis-ci.com/sproogen/modern-resume-theme)
