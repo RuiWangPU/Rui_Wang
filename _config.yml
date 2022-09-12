@@ -36,7 +36,7 @@ additional_links:
 about_title: <strong>About Me</strong>
 about_profile_image: /images/Rui Wang.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Ph.D. Candidate in CEE department at Princeton University, working with <a href="https://zondlo.princeton.edu">Prof. Mark Zondlo</a>. I am interested in utilizing multiple atmospheric ammonia (NH<sub>3</sub>) datasets, including satellite observations, ground monitoring network, and in-situ measurements, to understand ammonia's impact on air pollution.
+  I am currently a Ph.D. Candidate in CEE department at Princeton University, working with <a href="zondlo.princeton.edu">Prof. Mark Zondlo</a>. I am interested in utilizing multiple atmospheric ammonia (NH<sub>3</sub>) datasets, including satellite observations, ground monitoring network, and in-situ measurements, to understand ammonia's impact on air pollution.
 
 # Education Section
 education_title: <strong>Education</strong> #(Use this to override about education section title)
