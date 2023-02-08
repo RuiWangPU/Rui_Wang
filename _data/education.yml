@@ -1,12 +1,13 @@
 # Education Template
 - layout: left
   name: Princeton University
-  dates: 2016 - now
-  qualification: Ph.D. Candidate in Civil and Environmental Engineering
+  dates: 2016 - 2022
+  qualification: Ph.D. in Civil and Environmental Engineering
   quote: >
   
-  description: I am a Ph.D. student working with <a href="http://zondlo.princeton.edu/index.html">Prof. Mark Zondlo</a>. 
+  description: I was a Ph.D. working with <a href="http://zondlo.princeton.edu/index.html">Prof. Mark Zondlo</a>. 
   
+
 - layout: left
   name: Peking University
   dates: 2012 - 2016
