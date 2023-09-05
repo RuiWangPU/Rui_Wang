@@ -6,7 +6,6 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Rui Wang
 title: Postdoc Research Associate, Department of Civil and Environmental Engineering, Princeton University
 email: ruiw@princeton.edu
-phone: +1 (609) 955-8833
 website: https://sites.google.com/view/rui-wang/
 
 # Dark Mode (true/false/never)
